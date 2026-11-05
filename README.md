@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Kn21mls — игры и спрайтинг" width="960" />
+</p>
 
-<!--
-**Kn21mls/Kn21mls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Игры, пиксели и спрайтинг.
+</p>
 
-Here are some ideas to get you started:
+### Любимые игры
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **The Binding of Isaac: Rebirth**
+- **The Legend of Zelda: Ocarina of Time**
+- **Terraria**
+- **Metal Gear Solid**
+- **Counter-Strike 2**
+
+### Спрайтинг
+
+Люблю, когда несколько пикселей складываются в персонажа со своим характером.

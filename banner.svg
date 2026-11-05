@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Kn21mls — игры и спрайтинг</title>
+  <desc id="desc">Тёмный пиксельный баннер с янтарной надписью Kn21mls и маленьким островом с деревом.</desc>
+  <rect width="960" height="260" rx="8" fill="#151b24"/>
+  <path d="M24 56V24H56M904 24H936V56M936 204V236H904M56 236H24V204" fill="none" stroke="#39424d" stroke-width="2"/>
+  <g fill="#303b4c" shape-rendering="crispEdges">
+    <path d="M540 46h4v4h-4zM630 80h4v4h-4zM876 64h4v4h-4zM908 144h4v4h-4zM570 184h4v4h-4zM844 204h4v4h-4zM676 208h4v4h-4zM810 36h4v4h-4z"/>
+  </g>
+  <text x="64" y="119" fill="#efc176" font-family="Consolas, 'Courier New', monospace" font-size="58" font-weight="700" letter-spacing="-2">Kn21mls</text>
+  <text x="67" y="154" fill="#a7b0bb" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="3">GAMES / PIXEL ART</text>
+  <g shape-rendering="crispEdges">
+    <path d="M68 186h8v8h-8zM80 186h8v8h-8zM92 186h8v8h-8z" fill="#efc176"/>
+    <path d="M104 186h8v8h-8zM116 186h8v8h-8z" fill="#39424d"/>
+    <path d="M682 166h140v14H682zM696 180h112v14H696zM710 194h84v14H710zM738 208h28v14H738z" fill="#4b4141"/>
+    <path d="M682 166h140v7H682zM696 159h112v7H696z" fill="#94ac81"/>
+    <path d="M696 173h28v7h-28zM738 180h14v14h-14zM780 173h28v7h-28zM752 201h14v7h-14z" fill="#66534a"/>
+    <path d="M745 103h14v56h-14zM731 117h14v14h-14zM759 110h14v14h-14z" fill="#ad805d"/>
+    <path d="M724 54h56v14h-56zM710 68h84v14h-84zM696 82h112v28H696zM710 110h84v14h-84zM724 124h14v7h-14z" fill="#617e74"/>
+    <path d="M724 54h56v7h-56zM710 68h28v14h-28zM696 82h28v14h-28zM738 68h28v14h-28z" fill="#94ac81"/>
+    <path d="M780 82h28v28h-28zM752 110h42v14h-42zM766 96h14v14h-14z" fill="#415b59"/>
+    <path d="M808 145h7v14h-7z" fill="#b79c73"/>
+    <path d="M801 138h21v7h-21zM808 131h7v7h-7z" fill="#efc176"/>
+    <path d="M658 91h6v18h-6zM652 97h18v6h-18z" fill="#efc176"/>
+  </g>
+</svg>
