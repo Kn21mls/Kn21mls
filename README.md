@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  Popped oout to show them
+  Uncertain about @everything
 </p>
 
